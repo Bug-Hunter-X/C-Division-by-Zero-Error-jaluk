@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in C: division by zero. The `bug.c` file contains the erroneous code, while `bugSolution.c` provides a corrected version that handles potential division by zero using a conditional check.  This example highlights the importance of robust error handling in C programming.
